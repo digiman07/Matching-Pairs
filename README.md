@@ -2,7 +2,7 @@
 
 > A simple Matching Pairs game mage with Unity.
 
-- **Difficulty**: Easy
+- **Difficulty**: Easy.
 
 **Game Screen**
 ![alt text](https://github.com/digiman07/Matching-Pairs/blob/main/Screenshots/Matching-Pairs.jpg)
