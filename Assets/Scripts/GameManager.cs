@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -28,8 +27,6 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        Cursor.visible = true;
-        Cursor.SetCursor(PlayerSettings.defaultCursor, Vector2.zero, CursorMode.ForceSoftware);
         GenerateCards();
     }
 
