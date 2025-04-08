@@ -4,9 +4,6 @@
 
 - **Difficulty**: Easy
 
-**Menu Screen**
-![alt text](https://github.com/digiman07/Space-Invaders/blob/main/Screenshots/GameMenu.jpg)
-
 **Game Screen**
 ![alt text](https://github.com/digiman07/Matching-Pairs/blob/main/Screenshots/Matching-Pairs.jpg)
 
