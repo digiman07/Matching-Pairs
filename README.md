@@ -8,5 +8,5 @@
 ![alt text](https://github.com/digiman07/Matching-Pairs/blob/main/Screenshots/Matching-Pairs.jpg)
 
 <div align="center">
-<h4> <a href="https://mhsoftware.great-site.net/Matching-Pairs/" target="_blank" rel="noopener noreferrer">View Demo</a> </h4>
+<h4> <a href="https://mhsoftware.epizy.com/Matching-Pairs/" target="_blank" rel="noopener noreferrer">View Demo</a> </h4>
 </div>
